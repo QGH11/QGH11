@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt=" LinkedIn" width="26px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" />][linkedin]
+[<img align="left" alt=" LinkedIn" width="30px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" />][linkedin]
 
 <br />
 
@@ -28,7 +28,7 @@
 <br />
 <img align="left" alt="Assembly" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="ModelSim" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Verilog" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Verilog" width="26px" src="https://www.kindpng.com/picc/m/128-1280330_github-logo-png-github-icon-blue-png-transparent.png" />
 
 
 
@@ -53,7 +53,11 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="QGH11's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QGH11&layout=compact)](https://github.com/QGH11/github-readme-stats)
+
 
 </details>
 
