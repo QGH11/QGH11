@@ -40,7 +40,7 @@
 ### GitHub Stats
 
 
-![QGH11's GitHub stats](https://github-readme-stats.vercel.app/api?username=QGH11&show_icons=true&theme=radical)
+![QGH11's GitHub stats](https://github-readme-stats.vercel.app/api?username=QGH11&show_icons=true)
 
 
 <br />
