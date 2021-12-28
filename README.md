@@ -37,30 +37,16 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/4) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-2. 🗣 Commented on [#4](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/4) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-3. ❗️ Closed issue [#3](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/3) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-4. 🗣 Commented on [#3](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/3) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-5. 🗣 Commented on [#1](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/1) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="QGH11's GitHub Stats" src="https://github-readme-stats.QGH11.vercel.app/api?username=QGH11&show_icons=true&hide_border=true" />
-
-  <br />
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QGH11&layout=compact)](https://github.com/QGH11/github-readme-stats)
+### GitHub Stats
 
 
-</details>
+![QGH11's GitHub stats](https://github-readme-stats.vercel.app/api?username=QGH11&show_icons=true&theme=radical)
+
+
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QGH11&layout=compact)](https://github.com/QGH11/github-readme-stats)
+
 
 [linkedin]: https://www.linkedin.com/in/antonio-qiao/
 [course]: http://vsCodeHero.com
