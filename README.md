@@ -43,9 +43,9 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QGH11&layout=compact)](https://github.com/QGH11/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QGH11&langs_count=8)](https://github.com/QGH11/github-readme-stats)
 
-[![QGH11's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=QGH11)](https://github.com/QGH11/github-readme-stats)
+
 
 
 
