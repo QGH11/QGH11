@@ -26,9 +26,9 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
-<img align="left" alt="Assembly" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="ModelSim" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Verilog" width="26px" src="https://www.kindpng.com/picc/m/128-1280330_github-logo-png-github-icon-blue-png-transparent.png" />
+<img align="left" alt="Assembly" width="26px" src="https://i.pinimg.com/originals/8c/b1/8c/8cb18c72082d13eb581cf6d452e8e266.png" />
+<img align="left" alt="ModelSim" width="26px" src="https://downloadly.net/wp-content/uploads/2020/03/ModelSim.png" />
+<img align="left" alt="Quartus" width="26px" src="https://www.jackenhack.com/wp-content/uploads/2020/01/Quartus_prime_icon.png" />
 
 
 
