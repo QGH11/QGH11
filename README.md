@@ -33,6 +33,8 @@
  
  - 🔭 I'm open to any kinds of opportunities
 
+ - 🐈 I also love cats
+
 ---
  
 <p align="center">
