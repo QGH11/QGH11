@@ -21,7 +21,7 @@
 <br />
 
 <p align="center">
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://user-images.githubusercontent.com/76548491/194159031-7ace7171-9111-44f1-adf8-b32ace56a08f.png" />
   <h3> I'm Full-Stack and Software developer with</h3>
 </p>
 
@@ -43,7 +43,7 @@
 
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=mayhemantt&&show_icons=true&theme=radical"/>
+    <img  src="Gif/Sakamoto Gif"/>
   </a>
 
 </p>
