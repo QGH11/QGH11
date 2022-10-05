@@ -42,7 +42,7 @@
 ## Github Status
 
 <p align="center" >
-    <img  src="https://qgh-11-qgh11.vercel.app/api?username=mayhemantt&&show_icons=true&theme=radical"/>
+    <img alt="Github status" src="https://qgh-11-qgh11.vercel.app/api?username=QGH11&&show_icons=true&theme=radical"/>
   </a>
 </p>
 
