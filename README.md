@@ -32,10 +32,6 @@
 
 ---
 
-### GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QGH11&layout=compact)](https://github.com/QGH11/github-readme-stats)
-
 [linkedin]: https://www.linkedin.com/in/antonio-qiao/
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
