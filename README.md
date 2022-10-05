@@ -81,7 +81,7 @@
 <p align="left">
   <a href="#">
     <img src="svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
-  </a>   
+  </a>  
 
   <a href="#">
     <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
@@ -103,54 +103,19 @@
     <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
   </a>    
 
-</p>
-
-### Misc
-<p align="left">
    <a href="#">
-    <img src="svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
+    <img height="32" src="https://user-images.githubusercontent.com/76548491/194151546-71c062ea-4d66-46a6-87b5-4345b3ce1362.png" alt="c++ style="vertical-align:top; margin:6px 4px">
+  </a> 
+     <a href="#">
+    <img height="32" src="https://user-images.githubusercontent.com/76548491/194154306-2afbe95d-5637-453c-8003-9210b909bad1.png" alt="Assembly style="vertical-align:top; margin:6px 4px">
+  </a>
+                                                                                                   <a href="#">
+    <img height="32px" src="https://user-images.githubusercontent.com/76548491/194152665-0728cd9b-c44b-4e64-835f-7d761cb4df09.png" alt="python" style="vertical-align:top; margin:6px 4px">
+  </a>     
+    
    <a href="#">
-    <img src="svg/dev/misc/desktop.svg" alt="desktop" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-   <a href="#">
-    <img src="svg/dev/misc/edge.svg" alt="edge" style="vertical-align:top; margin:6px 4px">
-  </a>   
-
-   <a href="#">
-    <img src="svg/dev/misc/gamedev.svg" alt="gamedev" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-   <a href="#">
-    <img src="svg/dev/misc/iot.svg" alt="iot" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-   <a href="#">
-    <img src="svg/dev/misc/mobile.svg" alt="mobile" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-   <a href="#">
-    <img src="svg/dev/misc/security.svg" alt="security" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="svg/dev/misc/tablet.svg" alt="tablet" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-   <a href="#">
-    <img src="svg/dev/misc/tools.svg" alt="tools" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  
-   <a href="#">
-    <img src="svg/dev/misc/vr.svg" alt="vr" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-   <a href="#">
-    <img src="svg/dev/misc/web.svg" alt="web" style="vertical-align:top; margin:6px 4px">
-  </a>  
+    <img height="32px" src="https://user-images.githubusercontent.com/76548491/194154511-9bfb9635-18a2-4123-98ea-ac301c1e7459.png" alt="python" style="vertical-align:top; margin:6px 4px">
+  </a> 
 
 </p>
 
@@ -191,8 +156,7 @@
 
   <a href="#">
     <img src="svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:6px 4px">
-  </a> 
-
+  </a>    
 
   <a href="#">
     <img src="svg/dev/tools/visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:6px 4px">
@@ -200,6 +164,13 @@
 
   <a href="#">
     <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
+  </a> 
+                                                                                                   <a href="#">
+    <img height = "32px" src="https://user-images.githubusercontent.com/76548491/194153867-dbde2702-efca-4a10-ae52-86a4833ef84f.png" alt="Quartus" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  
+  <a href="#">
+    <img height = "32px" src="https://user-images.githubusercontent.com/76548491/194153991-b247f8c5-1ef5-4e56-8598-3934c3e3c952.png" alt="ModelSim" style="vertical-align:top; margin:6px 4px">
   </a> 
 </p>
 
