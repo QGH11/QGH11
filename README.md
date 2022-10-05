@@ -20,10 +20,8 @@
  
 <br />
 
-<p align="center">
 <img align="right" height="270px" width="450px" alt="GIF" src="Gif/Sakamoto Gif.gif" />
   <h3> I'm Full-Stack and Software developer with</h3>
-</p>
 
  - 🥀 Currently learning everything (software, web, unity, verilog ...)
    
@@ -41,10 +39,8 @@
 
 ## Github Status
 
-<p align="center" >
-    <img alt="Github status" src="https://qgh-11-qgh11.vercel.app/api?username=QGH11&&show_icons=true&theme=radical"/>
-  </a>
-</p>
+![QGH's GitHub stats](https://github-readme-stats.vercel.app/api?username=QGH11&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
 
 <br />
 
