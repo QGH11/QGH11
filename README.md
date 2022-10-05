@@ -165,6 +165,14 @@
   <a href="#">
     <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
   </a> 
+    
+   <a href="#">
+    <img height = "32px" src="https://user-images.githubusercontent.com/76548491/194155403-265e692b-b002-4a70-9e86-0a6f5bc3b16e.png" alt="Jupyter" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  
+      <a href="#">
+    <img height = "32px" src="https://user-images.githubusercontent.com/76548491/194155657-eceaaf5e-6b55-45ae-8536-1e109f20a20e.png" alt="Anoconda" style="vertical-align:top; margin:6px 4px">
+  </a> 
   
   <a href="#">
     <img height = "32px" src="https://user-images.githubusercontent.com/76548491/194154842-3b483c96-6881-4337-bce7-35d0a9dc062a.png" alt="WordPress" style="vertical-align:top; margin:6px 4px">
