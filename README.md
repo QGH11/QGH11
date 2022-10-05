@@ -172,6 +172,14 @@
   <a href="#">
     <img height = "32px" src="https://user-images.githubusercontent.com/76548491/194153991-b247f8c5-1ef5-4e56-8598-3934c3e3c952.png" alt="ModelSim" style="vertical-align:top; margin:6px 4px">
   </a> 
+  
+    <a href="#">
+    <img height = "32px" src="https://user-images.githubusercontent.com/76548491/194154842-3b483c96-6881-4337-bce7-35d0a9dc062a.png" alt="WordPress" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  
+    <a href="#">
+    <img height = "32px" src="https://user-images.githubusercontent.com/76548491/194154897-4a898f4d-099b-4aff-95e4-d69917a617fb.png" alt="Drupal" style="vertical-align:top; margin:6px 4px">
+  </a> 
 </p>
 
 --- 
@@ -189,6 +197,10 @@
   <a href="#">
     <img src="svg/devices/raspberrypi.svg" alt="raspberrypi" style="vertical-align:top; margin:6px 4px">
   </a>  
+  
+ <a href="#">
+    <img height="32px" src="https://user-images.githubusercontent.com/76548491/194154767-507bb692-76f0-4515-90df-0ae6752cd1c4.png" alt="Arduino UNO" style="vertical-align:top; margin:6px 4px">
+  </a> 
 
 </p>
 
