@@ -1,5 +1,4 @@
-### Hi there, I'm Antonio - aka [QGH][linkedin] 👋 
-
+### Hi there, I'm Antonio - aka [QGH][linkedin] 👋
 
 ## I'm a Computer Engineer Student from UBC, Developer: Software and Front-End
 
@@ -28,8 +27,6 @@
 <img align="left" alt="ModelSim" width="26px" src="https://downloadly.net/wp-content/uploads/2020/03/ModelSim.png" />
 <img align="left" alt="Quartus" width="26px" src="https://www.jackenhack.com/wp-content/uploads/2020/01/Quartus_prime_icon.png" />
 
-
-
 <br />
 <br />
 
@@ -41,8 +38,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QGH11&layout=compact)](https://github.com/QGH11/github-readme-stats)
 
-
-
+<!--START_SECTION:activity-->
 
 [linkedin]: https://www.linkedin.com/in/antonio-qiao/
 [course]: http://vsCodeHero.com
