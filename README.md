@@ -34,20 +34,17 @@
  - 🔭 I'm open to any kinds of opportunities
 
  - 🐈 I also love cats
-
----
  
-<p align="center">
-  <h4>Github Status </h4>
-</p>
+ <br />
+ 
+ ---
 
-<!--  -->
+## Github Status
 
 <p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
+   <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=mayhemantt&&show_icons=true&theme=radical"/>
   </a>
-
 </p>
 
 <br />
@@ -215,6 +212,5 @@
 
 </p>
 
- ### - What i do
 
 
