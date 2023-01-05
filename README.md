@@ -19,10 +19,8 @@
  
 <br />
 
-<p align="center">
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<img align="right" height="270px" width="450px" alt="GIF" src="Gif/Sakamoto Gif.gif" />
   <h3> I'm Full-Stack and Software developer with</h3>
-</p>
 
 - 🥀 Currently learning everything (software, web, unity, verilog ...)
 - 🎮 Love Gaming and doing sports😼
@@ -31,19 +29,16 @@
 
 - 🔭 I'm open to any kinds of opportunities
 
----
+ - 🐈 I also love cats
+ 
+ <br />
+ 
+ ---
 
-<p align="center">
-  <h4>Github Status </h4>
-</p>
+## Github Status
 
-<!--  -->
-
-<p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=mayhemantt&&show_icons=true&theme=radical"/>
-  </a>
-
+<p  align="center">
+<img src="https://github-readme-status.vercel.app/api?username=QGH11&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
 
 <br />
@@ -213,4 +208,4 @@
 
 </p>
 
-### - What i do
+ ### - What i do
