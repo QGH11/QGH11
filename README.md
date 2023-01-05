@@ -9,7 +9,6 @@
    <a href="https://www.linkedin.com/in/antonio-qiao/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
  </p>
 
-
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Antonio Qiao | 💻 Full Stack / Software Developer | 🛸 Canada <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
@@ -25,16 +24,15 @@
   <h3> I'm Full-Stack and Software developer with</h3>
 </p>
 
- - 🥀 Currently learning everything (software, web, unity, verilog ...)
-   
- - 🎮 Love Gaming and doing sports😼
+- 🥀 Currently learning everything (software, web, unity, verilog ...)
+- 🎮 Love Gaming and doing sports😼
 
- - 🛸 From UBC Computer Engineering 
- 
- - 🔭 I'm open to any kinds of opportunities
+- 🛸 From UBC Computer Engineering
+
+- 🔭 I'm open to any kinds of opportunities
 
 ---
- 
+
 <p align="center">
   <h4>Github Status </h4>
 </p>
@@ -52,7 +50,7 @@
 
 ## Developer Tech
 
-### Frameworks 
+### Frameworks
 
 <p align="left">
    <a href="#">
@@ -61,47 +59,47 @@
   
   <a href="#">
     <img src="svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>
 
   <a href="#">
     <img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>
 
   <a href="#">
     <img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>
 
    <a href="#">
     <img src="svg/dev/frameworks/unity.svg" alt="unity" style="vertical-align:top; margin:6px 4px">
   </a>  
 </p>
 
-### Languages 
+### Languages
 
 <p align="left">
   <a href="#">
     <img src="svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>
 
   <a href="#">
     <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>
 
   <a href="#">
     <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>
 
   <a href="#">
     <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>
 
   <a href="#">
     <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>
 
   <a href="#">
     <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
-  </a>    
+  </a>
 
    <a href="#">
     <img height="32" src="https://user-images.githubusercontent.com/76548491/194151546-71c062ea-4d66-46a6-87b5-4345b3ce1362.png" alt="c++ style="vertical-align:top; margin:6px 4px">
@@ -115,52 +113,53 @@
     
    <a href="#">
     <img height="32px" src="https://user-images.githubusercontent.com/76548491/194154511-9bfb9635-18a2-4123-98ea-ac301c1e7459.png" alt="python" style="vertical-align:top; margin:6px 4px">
-  </a> 
+  </a>
 
 </p>
 
-### Services 
+### Services
+
 <p align="left">
 
   <a href="#">
     <img src="svg/dev/services/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:6px 4px">
-  </a> 
+  </a>
 
   <a href="#">
     <img src="svg/dev/services/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:6px 4px">
-  </a> 
+  </a>
 
   <a href="#">
     <img src="svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
   </a> 
 </p>
 
+### Tools
 
-### Tools  
 <p align="left">
   <a href="#">
     <img src="svg/dev/tools/android_studio_colour.svg" alt="android_studio_colour" style="vertical-align:top; margin:6px 4px">
-  </a> 
+  </a>
 
   <a href="#">
     <img src="svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px">
-  </a> 
+  </a>
 
   <a href="#">
     <img src="svg/dev/tools/eclipse.svg" alt="eclipse" style="vertical-align:top; margin:6px 4px">
-  </a> 
+  </a>
 
   <a href="#">
     <img src="svg/dev/tools/jetbrains_intellij.svg" alt="jetbrains_intellij" style="vertical-align:top; margin:6px 4px">
-  </a> 
+  </a>
 
   <a href="#">
     <img src="svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:6px 4px">
-  </a>    
+  </a>
 
   <a href="#">
     <img src="svg/dev/tools/visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:6px 4px">
-  </a> 
+  </a>
 
   <a href="#">
     <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
@@ -191,17 +190,18 @@
  
 </p>
 
---- 
+---
 
 ## Devices / Manufacturers
+
 <p align="left">
   <a href="#">
     <img src="svg/devices/mac.svg" alt="mac" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>
 
   <a href="#">
     <img src="svg/devices/pc.svg" alt="pc" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>
 
   <a href="#">
     <img src="svg/devices/raspberrypi.svg" alt="raspberrypi" style="vertical-align:top; margin:6px 4px">
@@ -209,10 +209,8 @@
   
  <a href="#">
     <img height="32px" src="https://user-images.githubusercontent.com/76548491/194154767-507bb692-76f0-4515-90df-0ae6752cd1c4.png" alt="Arduino UNO" style="vertical-align:top; margin:6px 4px">
-  </a> 
+  </a>
 
 </p>
 
- ### - What i do
-
-
+### - What i do
