@@ -1,212 +1,215 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="#">QGH</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-   
-   
-   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
+   <h1>Hi there, I'm <a href="#">Antonio Qiao</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
-<p align='center'>
-   <a href="https://www.linkedin.com/in/antonio-qiao/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>
- </p>
- <p align='center'><a href="https://qghportfolio.vercel.app/">Check Out My Portfolio</a></p>
+<div align='center'>
+  <a href="https://www.linkedin.com/in/antonio-qiao/"><img height="40" src="./Assets/icons/linkedin.png"></a>
+  <a href="https://qghportfolio.vercel.app/"><img height="40" src="./Assets/icons/portfolio.png"></a>
+ </div>
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Antonio Qiao | 💻 Full Stack / Software Developer | 🛸 Canada <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+  <h3>
+    <img src="./Assets/gif/cat_typing.gif" width="30"> 
+    UBC Computer Engineering - 💻 Full Stack / Software / Embeded Developer 
+    <img src="./Assets/gif/cat_typing.gif" width="30">
+  </h3>
 </div>
  
- <h5 align="center">
-   <i>⚡️I still have my hair⚡️</i>
-  </h5>
+ <h4 align="center">
+   <i>⚡️Looking for jobs...⚡️</i>
+  </h4>
  
 <br />
 
-<img align="right" height="270px" width="450px" alt="GIF" src="Gif/Sakamoto Gif.gif" />
-  <h3> I'm Full-Stack and Software developer with</h3>
-
-- 🥀 Currently learning everything (software, web, unity, verilog ...)
-- 🎮 Love Gaming and doing sports😼
+<img align="right" height="270px" width="450px" alt="GIF" src="./Assets/gif/Sakamoto.gif" />
+  <h3> I'm Full-Stack and Software developer</h3>
 
 - 🛸 From UBC Computer Engineering
 
 - 🔭 I'm open to any kinds of opportunities
 
- - 🐈 I also love cats
- 
+- 🐈 I know a lot: software, fullstack, embeded ...
+
+- 🎮 Love Gaming and doing sports😼
+
  <br />
- 
- ---
+ <br />
+ <br />
 
 ## Github Status
 
-<p  align="center">
-<img src="https://github-readme-status.vercel.app/api?username=QGH11&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-</p>
+<div align="center">
+  <a  href="https://github.com/QGH11">
+    <img height=400 src="https://github-readme-stats.vercel.app/api?username=QGH11&rank_icon=github&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
+  </a>
+</div>
 
 <br />
 
 ## Developer Tech
 
-### Frameworks
+### 🚍 Communication
 
-<p align="left">
-   <a href="#">
-    <img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
-  </a>   
-  
-  <a href="#">
-    <img src="svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px">
-  </a>
+<div align="left">
+  <img width="50" src="./Assets/icons/http.png" alt="http">
+  <img width="50" src="./Assets/icons/websocket.png" alt="websocket">
+  <img width="50" src="./Assets/icons/rest.png" alt="rest">
+</div>
 
-  <a href="#">
-    <img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
-  </a>
+### 🧰 Version Control
 
-  <a href="#">
-    <img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
-  </a>
+<div align="left">
+  <img width="50" src="./Assets/icons/git.png" alt="git">
+  <img width="50" src="./Assets/icons/github.png" alt="github">
+  <img width="50" src="./Assets/icons/bitbucket.png" alt="bitbucket">
+</div>
 
-   <a href="#">
-    <img src="svg/dev/frameworks/unity.svg" alt="unity" style="vertical-align:top; margin:6px 4px">
-  </a>  
-</p>
+### 🔨 Tools
 
-### Languages
+<div align="left">
+  <img width="50" src="./Assets/icons/intellij.png" alt="intellij">
+  <img width="50" src="./Assets/icons/pycharm.png" alt="pycharm">
+  <img width="50" src="./Assets/icons/android_studio.png" alt="android_studio">
+  <img width="50" src="./Assets/icons/visual_studio_code.png" alt="visual_studio_code">
+  <img width="50" src="./Assets/icons/eclipse.png" alt="eclipse">
+  <img width="50" src="./Assets/icons/jira.png" alt="jira">
+  <img width="50" src="./Assets/icons/jupyter_notebook.png" alt="jupyter_notebook">
+</div>
 
-<p align="left">
-  <a href="#">
-    <img src="svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
-  </a>
+### 🌐 Web Dev
 
-  <a href="#">
-    <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
-  </a>
+<div align="left">
+  <img width="50" src="./Assets/icons/html.png" alt="html">
+  <img width="50" src="./Assets/icons/css.png" alt="css">
+  <img width="50" src="./Assets/icons/bootstrap.png" alt="bootstrap">
+  <img width="50" src="./Assets/icons/wordpress.png" alt="wordpress">
+  <img width="50" src="./Assets/icons/wix.png" alt="wix">
+  <img width="50" src="./Assets/icons/firebase.png" alt  ="firebase">
+</div>
 
-  <a href="#">
-    <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
-  </a>
+### ✨ UI/UX
 
-  <a href="#">
-    <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
-  </a>
+<div align="left">
+  <img width="50" src="./Assets/icons/figma.png" alt="figma">
+  <img width="50" src="./Assets/icons/material_ui.png" alt="material_ui">
+  <img width="50" src="./Assets/icons/canva.png" alt="canva">
+</div>
 
-  <a href="#">
-    <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
-  </a>
+### 📜 JavaScript
 
-  <a href="#">
-    <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
-  </a>
+<div align="left">
+  <img width="50" src="./Assets/icons/javascript.png" alt="javascript">
+  <img width="50" src="./Assets/icons/react.png" alt="react">
+  <img width="50" src="./Assets/icons/typescript.png" alt="typescript">
+  <img width="50" src="./Assets/icons/npm.png" alt="npm">
+  <img width="50" src="./Assets/icons/yarn.png" alt="yarn">
+  <img width="50" src="./Assets/icons/node_js.png" alt="node_js">
+  <img width="50" src="./Assets/icons/express.png" alt="express">
+  <img width="50" src="./Assets/icons/redux.png" alt="redux">
+  <img width="50" src="./Assets/icons/react_query.png" alt="react_query">
+  <img width="50" src="./Assets/icons/webpack.png" alt="webpack">
+  <img width="50" src="./Assets/icons/next_js.png" alt="next_js">
+  <img width="50" src="./Assets/icons/babel.png" alt="babel">
+</div>
 
-   <a href="#">
-    <img height="32" src="https://user-images.githubusercontent.com/76548491/194151546-71c062ea-4d66-46a6-87b5-4345b3ce1362.png" alt="c++ style="vertical-align:top; margin:6px 4px">
-  </a> 
-     <a href="#">
-    <img height="32" src="https://user-images.githubusercontent.com/76548491/194154306-2afbe95d-5637-453c-8003-9210b909bad1.png" alt="Assembly style="vertical-align:top; margin:6px 4px">
-  </a>
-                                                                                                   <a href="#">
-    <img height="32px" src="https://user-images.githubusercontent.com/76548491/194152665-0728cd9b-c44b-4e64-835f-7d761cb4df09.png" alt="python" style="vertical-align:top; margin:6px 4px">
-  </a>     
-    
-   <a href="#">
-    <img height="32px" src="https://user-images.githubusercontent.com/76548491/194154511-9bfb9635-18a2-4123-98ea-ac301c1e7459.png" alt="python" style="vertical-align:top; margin:6px 4px">
-  </a>
+### ☕ Java
 
-</p>
+<div align="left">
+  <img width="50" src="./Assets/icons/java.png" alt="java">
+  <img width="50" src="./Assets/icons/maven.png" alt="maven">
+  <img width="50" src="./Assets/icons/junit.png" alt="junit">
+  <img width="50" src="./Assets/icons/mocikto.png" alt="mocikto">
+  <img width="50" src="./Assets/icons/kotlin.png" alt="kotlin">
+</div>
 
-### Services
+### ©️ C/C++
 
-<p align="left">
+<div align="left">
+  <img width="50" src="./Assets/icons/c.png" alt="c">
+  <img width="50" src="./Assets/icons/c++.png" alt="c++">
+</div>
 
-  <a href="#">
-    <img src="svg/dev/services/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:6px 4px">
-  </a>
+### C#
 
-  <a href="#">
-    <img src="svg/dev/services/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:6px 4px">
-  </a>
+<div align="left">
+  <img width="50" src="./Assets/icons/c%23.png" alt="c%23">
+</div>
 
-  <a href="#">
-    <img src="svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
-  </a> 
-</p>
+### 🐍 Python
 
-### Tools
+<div align="left">
+  <img width="50" src="./Assets/icons/python.png" alt="python">
+  <img width="50" src="./Assets/icons/flask.png" alt="maven">
+  <img width="50" src="./Assets/icons/pytest.png" alt="junit">
+  <img width="50" src="./Assets/icons/numpy.png" alt="numpy">
+  <img width="50" src="./Assets/icons/pandas.png" alt="pandas">
+</div>
 
-<p align="left">
-  <a href="#">
-    <img src="svg/dev/tools/android_studio_colour.svg" alt="android_studio_colour" style="vertical-align:top; margin:6px 4px">
-  </a>
+### 📱 Mobile Dev
 
-  <a href="#">
-    <img src="svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px">
-  </a>
+<div align="left">
+  <img width="50" src="./Assets/icons/android.png" alt="android">
+  <img width="50" src="./Assets/icons/ios.png" alt="ios">
+</div>
 
-  <a href="#">
-    <img src="svg/dev/tools/eclipse.svg" alt="eclipse" style="vertical-align:top; margin:6px 4px">
-  </a>
+### 💾 Database
 
-  <a href="#">
-    <img src="svg/dev/tools/jetbrains_intellij.svg" alt="jetbrains_intellij" style="vertical-align:top; margin:6px 4px">
-  </a>
+<div align="left">
+  <img width="50" src="./Assets/icons/PostgreSQL.png" alt="PostgreSQL">
+  <img width="50" src="./Assets/icons/oracle.png" alt="oracle">
+  <img width="50" src="./Assets/icons/mysql.png" alt="mysql">
+  <img width="50" src="./Assets/icons/mongodb.png" alt="mongodb">
+</div>
 
-  <a href="#">
-    <img src="svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:6px 4px">
-  </a>
+### 🤿 DevOps
 
-  <a href="#">
-    <img src="svg/dev/tools/visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:6px 4px">
-  </a>
+<div align="left">
+  <img width="50" src="./Assets/icons/bash.png" alt="bash">
+  <img width="50" src="./Assets/icons/docker.png" alt="docker">
+  <img width="50" src="./Assets/icons/ci_cd.png" alt="ci_cd">
+  <img width="50" src="./Assets/icons/jenkins.png" alt="jenkins">
+  <img width="50" src="./Assets/icons/terraform.png" alt="terraform">
+</div>
 
-  <a href="#">
-    <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  
-   <a href="#">
-    <img height = "32px" src="https://user-images.githubusercontent.com/76548491/194155657-eceaaf5e-6b55-45ae-8536-1e109f20a20e.png" alt="Anoconda" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  
-   <a href="#">
-    <img height = "32px" src="https://user-images.githubusercontent.com/76548491/194155403-265e692b-b002-4a70-9e86-0a6f5bc3b16e.png" alt="Jupyter" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  
-  <a href="#">
-    <img height = "32px" src="https://user-images.githubusercontent.com/76548491/194154842-3b483c96-6881-4337-bce7-35d0a9dc062a.png" alt="WordPress" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  
-   <a href="#">
-    <img height = "32px" src="https://user-images.githubusercontent.com/76548491/194154897-4a898f4d-099b-4aff-95e4-d69917a617fb.png" alt="Drupal" style="vertical-align:top; margin:6px 4px">
-  </a> 
-                                                                                                   <a href="#">
-    <img height = "32px" src="https://user-images.githubusercontent.com/76548491/194153867-dbde2702-efca-4a10-ae52-86a4833ef84f.png" alt="Quartus" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  
-  <a href="#">
-    <img height = "32px" src="https://user-images.githubusercontent.com/76548491/194153991-b247f8c5-1ef5-4e56-8598-3934c3e3c952.png" alt="ModelSim" style="vertical-align:top; margin:6px 4px">
-  </a> 
- 
-</p>
+### ☁️ Cloud
 
----
+<div align="left">
+  <img width="50" src="./Assets/icons/aws.png" alt="aws">
+  <img width="50" src="./Assets/icons/gcp.png" alt="gcp">
+  <img width="50" src="./Assets/icons/microsoft_azure.png" alt="microsoft_azure">
+</div>
 
-## Devices / Manufacturers
+### 🤖 AI
 
-<p align="left">
-  <a href="#">
-    <img src="svg/devices/mac.svg" alt="mac" style="vertical-align:top; margin:6px 4px">
-  </a>
+<div align="left">
+  <img width="50" src="./Assets/icons/tensorflow.png" alt="aws">
+</div>
 
-  <a href="#">
-    <img src="svg/devices/pc.svg" alt="pc" style="vertical-align:top; margin:6px 4px">
-  </a>
+### 🧪 Testing
 
-  <a href="#">
-    <img src="svg/devices/raspberrypi.svg" alt="raspberrypi" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  
- <a href="#">
-    <img height="32px" src="https://user-images.githubusercontent.com/76548491/194154767-507bb692-76f0-4515-90df-0ae6752cd1c4.png" alt="Arduino UNO" style="vertical-align:top; margin:6px 4px">
-  </a>
+<div align="left">
+  <img width="50" src="./Assets/icons/selenium.png" alt="selenium">
+  <img width="50" src="./Assets/icons/cypress.png" alt="cypress">
+</div>
 
-</p>
+### 🎮 Game Development
 
- ### - What i do
+<div align="left">
+  <img width="50" src="./Assets/icons/unity.png" alt="selenium">
+</div>
+
+### 🖥️ Operating system
+
+<div align="left">
+  <img width="50" src="./Assets/icons/windows.png" alt="windows">
+  <img width="50" src="./Assets/icons/macos.png" alt="macos">
+  <img width="50" src="./Assets/icons/linux.png" alt="linux">
+  <img width="50" src="./Assets/icons/ubuntu.png" alt="ubuntu">
+</div>
+
+### 🔌 Microcontrollers
+
+<div align="left">
+  <img width="50" src="./Assets/icons/arduino.png" alt="arduino">
+  <img width="50" src="./Assets/icons/raspberri_pi.png" alt="raspberri_pi">
+</div>
